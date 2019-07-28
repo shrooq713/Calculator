@@ -26,6 +26,6 @@ The application offers the following features:
 
 Supported versions:
 
-1- The iOS version 12.2
-2- XCode version 10.3
-3- Swift version 5
+- The iOS version 12.2
+- XCode version 10.3
+- Swift version 5
