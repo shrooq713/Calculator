@@ -13,7 +13,6 @@ How to run the Virtual Tourist app :
 
 
 The app has one view controller :
-
 It shows the numbers and simple mathematical functions.
 
 
