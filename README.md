@@ -5,7 +5,7 @@ Project overview :
 Calculator provides simple and advanced mathematical functions in a beautifully designed app. Perform basic calculations such as addition, subtraction, multiplication, and division.
 
 
-How to run the Virtual Tourist app :
+How to run the Calculator app :
 
 1. Install Xcode 
 2. Instal the project file 
